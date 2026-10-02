@@ -1,0 +1,38 @@
+{
+  "phishing": {
+    "accuracy": 0.9945,
+    "precision": 0.995,
+    "recall": 0.995,
+    "f1": 0.995,
+    "confusion": [
+      [
+        4301,
+        26
+      ],
+      [
+        26,
+        5188
+      ]
+    ],
+    "n_train": 28623,
+    "n_test": 9541
+  },
+  "login": {
+    "accuracy": 0.9528,
+    "precision": 0.5455,
+    "recall": 1.0,
+    "f1": 0.7059,
+    "confusion": [
+      [
+        950,
+        50
+      ],
+      [
+        0,
+        60
+      ]
+    ],
+    "n_train": 1000,
+    "n_test": 1060
+  }
+}
