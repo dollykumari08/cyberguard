@@ -59,4 +59,9 @@ streamlit run app.py
 - Graph-based attack analysis
 
 ## Team
-Add your team name and member names here.
+Priyanka Bhuyan [Team Leader]
+Tanisha Kumari
+Dolly Kumari
+Dharmvir Kumar
+Jyotiraditya Sahu
+Jyoti Palauri
